@@ -1,2 +1,1 @@
-# spinning-fish
-lol
+![Spinning Fish](https://spinning.fish/fish.gif)
